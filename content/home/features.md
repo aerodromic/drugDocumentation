@@ -1,4 +1,5 @@
 ---
+# Edit Features in homepage below
 widget: featurette
 headless: true
 weight: 20
