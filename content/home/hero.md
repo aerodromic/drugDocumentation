@@ -11,12 +11,9 @@ design:
     text_color_light: true
 cta:
   url: docs/
-  label: Get Started
+  label: Read Documentation
   icon_pack: fas
-  icon: download
-cta_alt:
-  url: docs/
-  label: View Documentation
+  icon: flask-vial
 cta_note:
   label: >-
     <span class="js-github-release" data-repo="aerodromic/drugDocumentation">
