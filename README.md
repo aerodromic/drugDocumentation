@@ -1,4 +1,4 @@
-# [Hugo Documentation Theme](https://github.com/HugoBlox/theme-documentation)
+# [Hugo Documentation Theme](https://github.com/HugoBlox/theme-documentation) (PLACEHOLDER README)
 
 [![Screenshot](./preview.png)](https://hugoblox.com/templates/)
 
