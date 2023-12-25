@@ -18,7 +18,7 @@ Below is a table of drugs
 
 | camid | cam | acronym |
 |---|---|---|
-| cam001 | 714X | 714x |
+| **cam001** | 714X | 714x |
 | cam002 | Achyranthes Root | achyrt |
 | cam003 | Acorus | acor |
 | cam004 | Agrimony Grass | agrigr |
